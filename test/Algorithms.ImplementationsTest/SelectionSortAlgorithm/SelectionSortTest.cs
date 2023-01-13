@@ -1,4 +1,5 @@
-﻿using Algorithms.Implementations.SelectionSortAlgorithm;
+﻿using Algorithms.Implementations.BinarySearchAlgorithm;
+using Algorithms.Implementations.SelectionSortAlgorithm;
 
 namespace Algorithms.ImplementationsTest.BinarySearchAlgorithm;
 
